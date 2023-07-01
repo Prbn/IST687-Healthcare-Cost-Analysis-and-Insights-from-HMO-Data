@@ -17,7 +17,7 @@ By delving into the realm of healthcare cost analysis using advanced data scienc
 https://drive.google.com/drive/folders/1OvCg1-CWZmQmhBgnnyz1c31R4dcMnRSM?usp=sharing
 
 # Contributors:
-- Prabin Shrestha
+- Prabin Raj Shrestha
 - Sandra Chiwike
 - Jordan Jones
 - Shoumik Reddy
